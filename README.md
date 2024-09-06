@@ -49,6 +49,7 @@ Welcome to the **Programming Language Resources** repository! This guide provide
 - **Cheat Sheets & Books**
   - 📄 [Python Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - 📚 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  - 📚 [Python Reference Book](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
 - **Videos & Tutorials**
   - 🎥 [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
   - 🎥 [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
